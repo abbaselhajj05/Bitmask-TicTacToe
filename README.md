@@ -16,7 +16,7 @@ A simple and efficient **Tic Tac Toe** game built using **C# and WinForms**. The
 - **Game Reset**
   - Restart button to clear the board and start over.
 
-Technologies Used:
+## Technologies Used:
 - C#
 - Windows Forms
 - Visual Studio
